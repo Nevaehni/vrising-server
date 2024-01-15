@@ -2,5 +2,5 @@
 force_install_dir /steamcmd/vrising
 login anonymous
 app_info_update 1
-app_update 1604030 validate
+app_update 480 validate
 quit
